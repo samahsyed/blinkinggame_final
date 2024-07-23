@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Colli3",
+  "identifier": "texture:5028-0273be50-499d-4599-bdb5-02011796486d",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "20469f8462f2a3290f2008a9f449ed16",
+  "assetLocator": "textures/Colli3.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "20469f8462f2a3290f2008a9f449ed16",
+      "colorCount": 574,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 1.1287929310199767,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
